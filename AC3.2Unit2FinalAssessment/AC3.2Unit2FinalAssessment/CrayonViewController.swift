@@ -2,17 +2,25 @@
 //  CrayonViewController.swift
 //  AC3.2Unit2FinalAssessment
 //
-//  Created by Amber Spadafora on 10/6/16.
-//  Copyright © 2016 C4Q. All rights reserved.
+//  Created by John Gabriel Breshears on 10/13/16.
+//  Copyright © 2016 John Gabriel Breshears. All rights reserved.
 //
 
 import UIKit
 
 class CrayonViewController: UIViewController {
 
+   
+    
+    @IBOutlet weak var colorLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
+    
+    
+
+        
         // Do any additional setup after loading the view.
     }
 
